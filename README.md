@@ -1,6 +1,10 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Machine Learning Pipeline
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Welcome to this project.
+
+In this project I would like to show my skills using machine learning tools for develop a pipeline for an end-to-end data science project.
+
+your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
 
